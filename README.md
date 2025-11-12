@@ -21,7 +21,7 @@
 
 * [Wordpress CVE](./CTF3.md)
 * [Environment Variables](./CTF4.md)
-* [Stack Overflow](./CTF5.md)
+* [Buffer Overflow](./CTF5.md)
 * [Format Strings](./CTF6.md)
 * [XSS](./CTF7.md)
 * [SQLi](./CTF8.md)
